@@ -1,7 +1,7 @@
 # rsschool-cv
-========
+
 ## Olga Kuryanovich
-========
+
 ### Contacts:
 + **Address:** Minsk, Belarus
 + **Phone:** +37529-7745541

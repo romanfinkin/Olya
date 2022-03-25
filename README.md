@@ -1,3 +1,3 @@
 # rsschool-cv
-https://liafokus.github.io/rsschool-cv/
+https://liafokus.github.io/rsschool-cv/cv
 
